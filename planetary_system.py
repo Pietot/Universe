@@ -1,5 +1,5 @@
 """
-Simulate a solar system, all planets are attracted by the stars but not with each other
+Simulate a planetary system, all planets are attracted by the stars but not with each other
 """
 
 

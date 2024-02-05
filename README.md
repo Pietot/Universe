@@ -21,4 +21,4 @@ Simulate a galaxy with many stars. All stars are attracted by each other
 
 ## Download
 
-- 🟢 **[Latest release](https://github.com/Pietot/Da3dsoul.dev-Downloader/releases/latest)**
+- 🟢 **[Latest release]([https://github.com/Pietot/Da3dsoul.dev-Downloader/releases/latest](https://github.com/Pietot/Universe/releases/tag/v.1.0)https://github.com/Pietot/Universe/releases/tag/v.1.0)**
